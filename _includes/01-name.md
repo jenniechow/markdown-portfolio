@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Jennie Chow
+## This is a story about a girl named Jennie. ✨
