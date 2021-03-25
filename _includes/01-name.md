@@ -1,2 +1,2 @@
-# Jennie Chow
+# Jennie 
 ## This is a story about a girl named Jennie. ✨
